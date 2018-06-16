@@ -1,3 +1,13 @@
+const model = {
+    attendanceNames:[
+        "Adam the Anaconda",
+        "Gregory the Goat",
+        "Paulrus the Walrus",
+        "Lilly the Lizard",
+        "Slappy the Frog"
+    ]
+};
+
 /* STUDENTS IGNORE THIS FUNCTION
  * All this does is create an initial
  * attendance record if one is not found
